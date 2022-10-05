@@ -22,3 +22,13 @@ var num1= 3;
 var num2= 8;
 var sumar= suma(num1, num2);
 console.log (suma(num1,num2));
+
+function multiplicacion (num1,num2){
+    let multi= num1*num2;
+ return multi;
+ }
+ var num1= 6;
+ var num2= 9;
+ let multi= multiplicacion (num1,num2);
+ console.log(multiplicacion(num1,num2));
+ 
