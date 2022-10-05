@@ -41,5 +41,17 @@ var num2= 10;
 let res= resta(num1, num2);
 console.log (resta(num1,num2));
 
+function division (num1, num2){
+    var div= num1/num2;
+    return div;
+}
+var num1= 8;
+var num2= 2;
+let div= division(num1, num2);
+console.log (division(num1,num2));
 
+let array =["46","22","67"];
+for (x=0; x<3;x++){
+ console.log(array[x]);
+}
  
