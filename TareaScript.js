@@ -83,4 +83,6 @@ console.log (resta(num1,num2));
 console.log (division(num1,num2));
 console.log(array[x]);
 //#endregion
+
+
  
