@@ -72,4 +72,15 @@ var num1= 8;
 var num2= 2;
 let div1= division(num1, num2);
 //#endregion
+
+//#region 
+console.log (nombre);
+console.log (deporte);
+console.log (color);
+console.log (suma(num1,num2));
+console.log(multiplicacion(num1,num2));
+console.log (resta(num1,num2));
+console.log (division(num1,num2));
+console.log(array[x]);
+//#endregion
  
