@@ -54,4 +54,22 @@ let array =["46","22","67"];
 for (x=0; x<3;x++){
  console.log(array[x]);
 }
+
+//#region 
+var nombre= "antito";
+let deporte1= 'patin';
+const color1= `azul`;
+var num1= 3;
+var num2= 8;
+var sumar= suma(num1, num2);
+var num1= 6;
+var num2= 9;
+let multi1= multiplicacion (num1,num2);
+var num1= 6;
+var num2= 10;
+let res1= resta(num1, num2);
+var num1= 8;
+var num2= 2;
+let div1= division(num1, num2);
+//#endregion
  
