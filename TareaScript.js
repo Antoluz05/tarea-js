@@ -40,4 +40,6 @@ var num1= 6;
 var num2= 10;
 let res= resta(num1, num2);
 console.log (resta(num1,num2));
+
+
  
