@@ -31,4 +31,13 @@ function multiplicacion (num1,num2){
  var num2= 9;
  let multi= multiplicacion (num1,num2);
  console.log(multiplicacion(num1,num2));
+
+ function resta (num1, num2){
+    let res = num1-num2;
+    return res;
+}
+var num1= 6;
+var num2= 10;
+let res= resta(num1, num2);
+console.log (resta(num1,num2));
  
