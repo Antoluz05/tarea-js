@@ -84,5 +84,22 @@ console.log (division(num1,num2));
 console.log(array[x]);
 //#endregion
 
-
+//#region 
+function suma (num1, num2){
+    var sumar= num1 + num2;
+    return sumar;
+}
+function multiplicacion (num1,num2){
+    let multi= num1*num2;
+ return multi;
+}
+function resta (num1, num2){
+    let res = num1-num2;
+    return res;
+}
+function division (num1, num2){
+    var div= num1/num2;
+    return div;
+}
+//#endregion
  
